@@ -1,6 +1,6 @@
-Nombre: Marco Antonio Nuñez Torres 
+﻿Nombre: Marco Antonio Nuñez Torres 
 Edad: 23 años
 Juegos actuales: Apex Legends, C.O.D. Warzone, Fortnite
 Juegos favoritos: Apex Legends, Assassins Creed, GTA V, League of Legends
-Carrera:
-Especialidad:
+Carrera: Ing en computación
+Especialidad: Sistemas inteligentes
